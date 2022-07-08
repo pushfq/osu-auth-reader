@@ -1,5 +1,5 @@
 # osu-auth-reader
-Read portions of the raw token from osu anticheat.
+Read portions of the raw token from osu's anticheat.
 
 That's all really!
 
